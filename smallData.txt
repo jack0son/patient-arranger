@@ -1,0 +1,15 @@
+Lowell,J.R.,1970,71
+Cable,B.,1991,62
+London,J.,1929,42
+Doyle,A.C.,2006,54
+Doyle,A.C.,1941,94
+Doyle,A.C.,1901,40
+Doyle,A.C.,1909,41
+Doyle,A.C.,1939,66
+Doyle,A.C.,1964,73
+Filson,J.,1978,102
+Doyle,A.C.,1909,76
+Twain,M.,1955,66
+Burgess,T.W.,1902,88
+Collodi,C.,1917,41
+Doyle,A.C.,1905,73
